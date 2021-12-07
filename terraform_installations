@@ -1,0 +1,8 @@
+#CHOCO Install
+PS C:\WINDOWS\system32> Get-ExecutionPolicy
+Set-ExecutionPolicy AllSigned
+[Y] Yes  [A] Yes to All  [N] No  [L] No to All  [S] Suspend  [?] Help (default is "N"): A
+PS C:\WINDOWS\system32> choco
+Chocolatey v0.11.3
+Please run 'choco -? #lists all choco commands' to get
+choco install terraform
