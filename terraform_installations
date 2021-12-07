@@ -5,4 +5,4 @@ Set-ExecutionPolicy AllSigned
 PS C:\WINDOWS\system32> choco
 Chocolatey v0.11.3
 Please run 'choco -? #lists all choco commands' to get
-choco install terraform
+choco install terraform #
